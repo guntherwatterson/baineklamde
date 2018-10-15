@@ -1,4 +1,4 @@
 int USCLN(int a, int b)
 { 
-	hello
+	hello friend
 }
