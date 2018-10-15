@@ -1,5 +1,4 @@
 int USCLN(int a, int b)
 { 
-	hello friend how are you today??? 
-	what do you feel???
+	i dont know what to write
 }
